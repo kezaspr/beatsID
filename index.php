@@ -11,8 +11,8 @@ $products = getAllProducts();
 <!-- Hero Section -->
 <section class="hero" id="home">
     <div class="container">
-        <h1>Perangkat Audio Berkualitas Tinggi</h1>
-        <p>Temukan pengalaman audio terbaik dengan koleksi In-Ear Monitor premium kami. Dirancang untuk musisi, audiophile, dan semua pencinta suara berkualitas.</p>
+        <h1>Tempat In-Ear Monitor Terbaik</h1>
+        <p>Temukan berbagai macam In-Ear Monitor terbaik. Pendengar kasual, audiophile, bahkan professional dapat merasakan kenikmatannya.</p>
         <a href="#products" class="btn">Lihat Produk</a>
     </div>
 </section>
@@ -85,7 +85,7 @@ $products = getAllProducts();
             <div class="contact-info">
                 <h3>Informasi Kontak</h3>
                 <ul class="contact-details">
-                    <li>📧 info@premiumiem.com</li>
+                    <li>📧 info@beatsid.com</li>
                     <li>📞 +62 812 3456 789</li>
                     <li>📍 Jl. Audio No. 123, Jakarta</li>
                     <li>🕒 Senin - Jumat: 09:00 - 17:00</li>

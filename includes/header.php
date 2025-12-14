@@ -7,7 +7,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Premium IEM Store - In-Ear Monitor Berkualitas</title>
+    <title>BEATS.ID - Toko In-Ear Monitor berkualitas</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -15,7 +15,7 @@ session_start();
     <header>
         <div class="container">
             <nav class="navbar">
-                <a href="index.php" class="logo">beatsID</a>
+                <a href="index.php" class="logo">BEATS.ID</a>
                 <ul class="nav-links">
                     <li><a href="index.php#home">Beranda</a></li>
                     <li><a href="index.php#products">Produk</a></li>
